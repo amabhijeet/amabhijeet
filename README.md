@@ -4,7 +4,7 @@
   
   <!-- Terminal Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+@+IIITG;AI+%26+Backend+Enthusiast;Competitive+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+@+IIITG;AI+%26+Backend+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I enjoy learning new technologies, participating in hackathons, and building projects that help me become a better developer. Currently, I am dedicating my time to exploring artificial intelligence and competitive problem-solving.
+I enjoy learning new technologies, participating in hackathons, and building projects that help me become a better developer. Currently, I am dedicating my time to exploring artificial intelligence and backend development.
 
 ---
 
